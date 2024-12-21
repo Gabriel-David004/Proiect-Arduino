@@ -43,7 +43,7 @@ Valorile masurate sunt afisate in serial monitor pentru diagnosticare.
 3. Testati sistemul deplasandu-va un obiect in fata senzorului si observati modul in care LED-urile, motorul si buzzer-ul reactioneaza.
 
 ## Codul
-Codul complet este disponibil mai jos:
+Codul complet este disponibil mai jos (sau in documentul atasat):
 
 ```cpp
 int led1 = 13;
